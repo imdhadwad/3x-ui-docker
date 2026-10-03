@@ -83,7 +83,7 @@ This repository allows you to deploy **any version of the 3x-ui Panel (Sanaei)**
 ```dockerfile
 FROM alpine:3.19
 
-ARG XUI_VERSION=v2.5.8
+ARG XUI_VERSION=v3.9.0
 ARG ARCH=amd64
 
 RUN apk add --no-cache \
