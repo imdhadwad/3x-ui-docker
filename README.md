@@ -1,5 +1,10 @@
 # 🚀 3x-ui Panel (Sanaei) on Railway
 
+# درست کردن لینک ساب✔️ 
+به بخش **variables** داخل ریلوی بروید و یک **variable** با نام **PORT** و قسمت **value** را با **2096** پر کنید و بعد به **setting** بروید و بخش **networking** و ی دامنه با پورت **2096** جنریت کنید و کپی کنید و برید تو دامنه پورت **2053** و برید تو تنظیمات ساب و برید توی بخش **Reverse Proxy URI** و بعد دامنه **پورت 2096** خود را به شکل زیر بزارید و سیو کنید
+https://دامنه پورت 2096 و اینجا بزارید/sub/
+
+
 <p align="center">
   <a href="https://t.me/meov2ray">
     <img src="https://img.shields.io/badge/Telegram-MEOV2RAY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
